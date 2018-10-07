@@ -1,0 +1,46 @@
+body {
+	background-color: lightgray;
+}
+
+.cuerpo {
+	width: 90%;
+	background-color: white;
+	margin: 20px auto;
+	border-radius: 15px;
+	padding: 10px;
+}
+
+
+.logo-img{
+  width: 30%;
+}
+
+img{
+  max-height: 129px;
+}
+
+
+
+.logoArea {
+	margin-bottom: 30px;
+}
+
+.expanded {
+	width: 100%;
+}
+
+.expanded li {
+	margin-bottom: 5px;
+}
+
+.favoritos {
+	margin-top: 20px;	
+}
+
+.favoritos img {
+	margin: 0 auto;
+}
+
+.textoBlog p {
+	padding: 10px;
+}
