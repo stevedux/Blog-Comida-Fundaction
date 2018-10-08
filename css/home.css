@@ -2,6 +2,11 @@ body {
 	background-image: url("../img/cocina-fondo.jpg");
 	background-position: center center;
 	background-size: cover;
+	font-family: 'Raleway', sans-serif;
+}
+
+h1,h2,h3,h4  {
+	font-family: 'Raleway', sans-serif;
 }
 
 .cuerpo {
